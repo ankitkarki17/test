@@ -1,0 +1,14 @@
+body 
+{
+    background-color: gray;
+  }
+  .login 
+  {
+      border: solid gray;
+      width: 50px;
+      height: 50px;
+      text-align: center;
+      margin: 20px auto;
+      background: lightblue;
+      padding: 2px;
+  }
